@@ -1,0 +1,25 @@
+{
+  "short_name": "CS Dashboard",
+  "name": "Customer Satisfaction Dashboard",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/48/null/survey.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/96/null/survey.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/192/null/survey.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#f8fafc"
+}
