@@ -85,7 +85,11 @@ customer-Satisfation-Survey-Dashboard-/
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here to showcase the interface)*
+
+
+https://github.com/user-attachments/assets/8c9b6619-aeb3-42cb-8f14-48385b5a473d
+
+
 
 ---
 
